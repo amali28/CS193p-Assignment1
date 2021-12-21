@@ -10,3 +10,5 @@ Concepts learned:
     - Learned how to apply view modifiers
 - Introduction to Functional Programming
     - Structs in Swift
+
+Link to assignment: https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_1.pdf
